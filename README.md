@@ -1,7 +1,7 @@
 # HackOnHills
 #  Procurlify — Decentralized Procurement Portal
 
-Procurlifyis a **blockchain-powered procurement and tendering system** designed for transparent, fair, and efficient contract management.  
+Procurlify is a **blockchain-powered procurement and tendering system** designed for transparent, fair, and efficient contract management.  
 Admins (e.g., government departments or institutions like colleges) can **create tenders**, manage bids, and automatically select the **lowest bidder** — all while ensuring data integrity through decentralized architecture.
 
 ---
